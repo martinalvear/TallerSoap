@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\TallerSoap\bin\TallerSoap.dll.config
+C:\Users\user\source\repos\TallerSoap\bin\TallerSoap.dll
+C:\Users\user\source\repos\TallerSoap\bin\TallerSoap.pdb
+C:\Users\user\source\repos\TallerSoap\obj\Release\TallerSoap.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TallerSoap\obj\Release\TallerSoap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TallerSoap\obj\Release\TallerSoap.dll
+C:\Users\user\source\repos\TallerSoap\obj\Release\TallerSoap.pdb
